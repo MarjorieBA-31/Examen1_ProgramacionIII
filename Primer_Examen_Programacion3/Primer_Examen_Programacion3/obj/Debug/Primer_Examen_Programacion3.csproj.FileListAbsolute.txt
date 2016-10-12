@@ -1,0 +1,6 @@
+c:\users\my\documents\visual studio 2015\Projects\Primer_Examen_Programacion3\Primer_Examen_Programacion3\bin\Debug\Primer_Examen_Programacion3.exe.config
+c:\users\my\documents\visual studio 2015\Projects\Primer_Examen_Programacion3\Primer_Examen_Programacion3\bin\Debug\Primer_Examen_Programacion3.exe
+c:\users\my\documents\visual studio 2015\Projects\Primer_Examen_Programacion3\Primer_Examen_Programacion3\bin\Debug\Primer_Examen_Programacion3.pdb
+c:\users\my\documents\visual studio 2015\Projects\Primer_Examen_Programacion3\Primer_Examen_Programacion3\obj\Debug\Primer_Examen_Programacion3.csprojResolveAssemblyReference.cache
+c:\users\my\documents\visual studio 2015\Projects\Primer_Examen_Programacion3\Primer_Examen_Programacion3\obj\Debug\Primer_Examen_Programacion3.exe
+c:\users\my\documents\visual studio 2015\Projects\Primer_Examen_Programacion3\Primer_Examen_Programacion3\obj\Debug\Primer_Examen_Programacion3.pdb

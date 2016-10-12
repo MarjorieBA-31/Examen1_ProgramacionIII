@@ -1,0 +1,6 @@
+c:\users\my\documents\visual studio 2015\Projects\Primer_examen_prograII_camelcase\Primer_examen_prograII_camelcase\bin\Debug\Primer_examen_prograII_camelcase.exe.config
+c:\users\my\documents\visual studio 2015\Projects\Primer_examen_prograII_camelcase\Primer_examen_prograII_camelcase\obj\Debug\Primer_examen_prograII_camelcase.csprojResolveAssemblyReference.cache
+c:\users\my\documents\visual studio 2015\Projects\Primer_examen_prograII_camelcase\Primer_examen_prograII_camelcase\bin\Debug\Primer_examen_prograII_camelcase.exe
+c:\users\my\documents\visual studio 2015\Projects\Primer_examen_prograII_camelcase\Primer_examen_prograII_camelcase\bin\Debug\Primer_examen_prograII_camelcase.pdb
+c:\users\my\documents\visual studio 2015\Projects\Primer_examen_prograII_camelcase\Primer_examen_prograII_camelcase\obj\Debug\Primer_examen_prograII_camelcase.exe
+c:\users\my\documents\visual studio 2015\Projects\Primer_examen_prograII_camelcase\Primer_examen_prograII_camelcase\obj\Debug\Primer_examen_prograII_camelcase.pdb
